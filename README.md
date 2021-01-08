@@ -1,11 +1,11 @@
 # Ext4_Filesystem_Parsing
-ext4 filesystem을 이해하고 분석한 후, 파이썬으로 파싱해서 파일 목록 리스트업 해보기
+Ext4 filesystem을 이해하고 분석한 후, 파이썬으로 파싱해서 파일 목록 리스트업 해보기
 
 ## project
 * ext4 파일시스템 이해하기
 * [실습] ext4_image1.001 분석하기
 * [실습] ext4_image2.001 분석하기
-* [실습] ext4_image1.001, ext4_image2.001을 파이썬으로 파싱해서 파일 목록 리스트업 하기
+* [python] ext4_image1.001, ext4_image2.001을 파이썬으로 파싱해서 파일 목록 리스트업 하기
 
 ## 파일 목록 리스트업 실행 결과
 1. ext4_image1.txt 이미지 파일 실행결과
